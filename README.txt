@@ -13,3 +13,5 @@ Software was originally intended for personal use only and was created to solidi
 Note that the program was intended to be expanded upon later, hence it might be somewhat unoptimised in certain areas
 This software was not tested on systems other than windows
 The latest version of this product was finished on 25.05.2019
+
+Git support was added after initial finish
