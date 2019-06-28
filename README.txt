@@ -15,3 +15,7 @@ This software was not tested on systems other than windows
 The latest version of this product was finished on 25.05.2019
 
 Git support was added after initial finish
+
+# NOTE #
+
+Due to frequent changes in documents' structure on the checked sites, this program requires constant maintenance in order to function properly.
